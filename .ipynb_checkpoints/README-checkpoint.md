@@ -1,4 +1,4 @@
-# Berkeley Haas - Professional Certificate in Machine Learning and Artificial Intelligence - Cap
+# Berkeley Haas - Professional Certificate in Machine Learning and Artificial Intelligence - Module 5 - Practical Application 1
 
 ## Table of Contents
 - [Background](#background)
@@ -9,32 +9,8 @@
 - [Next Steps](#next-steps)
 
 ## Background
-This project aims to train a classification model to predict if a user will accept a coupon given his/her answers to some survey questions.
-
-The data used in here comes from a survey on Amazon Mechanical Turk. 
-[In-Vehicle Coupon Recommendation](https://archive.ics.uci.edu/dataset/603/in+vehicle+coupon+recommendation)
-
-In this project the work I have done is split into 2 parts.
-
-### Part 1 - Preprocessing of the data
-During this data processing, I have worked to:
-
-Handle Missing Values
-Handle Duplicated Data
-Handle Outliers
-Feature Transformation
-Feature Encoding
-Handle Class Imbalance
-Feature Selection
-Feature Extraction
-
-### Part 2 Modeling and Evaluation
-
-, we will:
-1. explore the feature engineering methods for categorical data using sklearn's pipeline and workflow.
-2. 
 This is a practical application assignment that focuses on using data analysis skills.
-In this project, 
+This project aims to analyze the data collected via a survey on Amazon Mechanical Turk. 
 
 ### There are two parts in this project: 
  1. Data cleansing and feature engineering 
