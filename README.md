@@ -1,4 +1,4 @@
-# Berkeley Haas - Professional Certificate in Machine Learning and Artificial Intelligence - Cap
+# Berkeley Haas - Professional Certificate in Machine Learning and Artificial Intelligence - Capstone Project
 
 ## Background
 This project aims to train a classification model to predict if a user will accept a coupon given his/her answers to some survey questions.
